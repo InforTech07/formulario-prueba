@@ -20,9 +20,9 @@
     </style>
   </head>
   <body>
-    <form action="<<url-archivo intermediario>>"  method="POST">
-        <input type="text" id="user" name="user"  value="<<usuario>>" required hidden><br><br>
-        <input type="password" id="password" name="password" value="<password>" required hidden><br><br>
+    <form action="https://intermediario.onrender.com"  method="POST">
+        <input type="text" id="user" name="user"  value="julian@intermundial.es" required hidden><br><br>
+        <input type="password" id="password" name="password" value="inter1234" required hidden><br><br>
         <input type="submit" value="Ir a safer">
     </form>
   </body>
