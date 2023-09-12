@@ -21,8 +21,8 @@
   </head>
   <body>
     <form action="https://intermediario.onrender.com"  method="POST">
-        <input type="text" id="user" name="user"  value="julian@intermundial.es" required hidden><br><br>
-        <input type="password" id="password" name="password" value="inter1234" required hidden><br><br>
+        <input type="text" id="user" name="user"  value="ff" required hidden><br><br>
+        <input type="password" id="password" name="password" value="idd" required hidden><br><br>
         <input type="submit" value="Ir a safer">
     </form>
   </body>
